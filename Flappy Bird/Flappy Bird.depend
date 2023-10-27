@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670776701 source:d:\assignments\code\cg\flappy bird\main.cpp
+	<iostream>
+	<conio.h>
+	<direct.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
